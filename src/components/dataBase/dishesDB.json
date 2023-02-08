@@ -1,0 +1,62 @@
+[
+    {
+        "id": "ddfsf3q423dsf3Df",
+        "img": "https://firebasestorage.googleapis.com/v0/b/porfolio-f48be.appspot.com/o/Healthy%20Food%2Fdish7.jpg?alt=media&token=144acb71-541a-4dc9-8a31-f2caae54e156",
+        "name": "Европейский завтрак",
+        "info": "Слабосолёный лосось, тосты, яйцо пашот и сырный крем.",
+        "price": 480,
+        "weight": 250,
+        "rate": 4.5,
+        "votes": 2
+    },
+    {
+        "id": "ddfsf3q423dsf3Dg",
+        "img": "https://firebasestorage.googleapis.com/v0/b/porfolio-f48be.appspot.com/o/Healthy%20Food%2Fdish8.jpg?alt=media&token=449687f0-7950-438c-b124-bb9177366733",
+        "name": "Стейк из лосося",
+        "info": "Подаётся с пюре из цветной капусты и спаржей.",
+        "price": 910,
+        "weight": 260,
+        "rate": 4,
+        "votes": 2
+    },
+    {
+        "id": "ddfsf3q423dsf3Dh",
+        "img": "https://firebasestorage.googleapis.com/v0/b/porfolio-f48be.appspot.com/o/Healthy%20Food%2Fdish9.jpg?alt=media&token=791a4961-ceab-40ad-ac35-d1de4a6976f2",
+        "name": "Кукурузный крем-суп",
+        "info": "Крем-суп из кукурузы с морковью, сливками, репчатым луком, тимьяном и эстрагонном. Украшается попкорном и жареной тигровой креветкой",
+        "price": 450,
+        "weight": 290,
+        "rate": 3,
+        "votes": 1
+    },
+    {
+        "id": "ddfsf3q423dsf3Di",
+        "img": "https://firebasestorage.googleapis.com/v0/b/porfolio-f48be.appspot.com/o/Healthy%20Food%2Fdish10.jpeg?alt=media&token=7e87956d-a98c-4e1c-9ca0-52541a3e07c6",
+        "name": "Салат Греческий",
+        "info": "С миксом салатов, свежими овощами, сыром фета и лимонно-масляной заправкой",
+        "price": 390,
+        "weight": 250,
+        "rate": 4,
+        "votes": 2
+    },
+    {
+        "id": "ddfsf3q423dsf3Dj",
+        "img": "https://firebasestorage.googleapis.com/v0/b/porfolio-f48be.appspot.com/o/Healthy%20Food%2Fdish11.jpg?alt=media&token=1c5d1300-8647-4cea-9522-35568a5a8cd7",
+        "name": "Фриттата",
+        "info": "Яйца, бекон, шампиньоны, капуста брокколи, помидоры черри",
+        "price": 380,
+        "weight": 230,
+        "rate": 5,
+        "votes": 1
+    },
+    {
+        "id": "ddfsf3q423dsf3Dk",
+        "img": "https://firebasestorage.googleapis.com/v0/b/porfolio-f48be.appspot.com/o/Healthy%20Food%2Fdish12.jpg?alt=media&token=7231d2f0-0886-462e-8b77-cadc2f56092c",
+        "name": "Классический завтрак",
+        "info": "Бекон, фасоль, томаты, тостовый хлеб. На выбор: с яичницей, омлетом или яйца пашот",
+        "price": 390,
+        "weight": 270,
+        "rate": 4.5,
+        "votes": 2
+    }
+]

@@ -1,0 +1,44 @@
+.spoiler {
+    &__item {
+        &:not(&:last-child) {
+            margin: 0px 0px 20px 0px;
+        }
+        border: 1px solid #000000;
+        box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+        border-radius: 12px;
+        min-height: 1em;
+        max-height: 3em;
+
+        transition: color 0.3s ease 0s, background-color 0.3s ease 0s,
+            min-height 0.7s ease 0s, max-height 0.7s ease 0s;
+        @media (hover: hover) {
+            &:hover {
+                color: #000000;
+                background-color: #34c759;
+            }
+        }
+        &.active {
+            min-height: 2em;
+            max-height: 20em;
+            color: #000000;
+            background-color: #34c759;
+        }
+    }
+    &__titleBlock {
+        cursor: pointer;
+        padding: 10px;
+    }
+    &__icon {
+        margin: 0px 10px 0px 0px;
+        transition: all 0.3s ease 0s;
+        &.active {
+            transform: rotate(90deg);
+        }
+    }
+    &__title {
+        font-size: 24px;
+    }
+    &__body {
+        padding: 0px 10px 10px 10px;
+    }
+}
